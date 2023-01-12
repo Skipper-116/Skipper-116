@@ -105,7 +105,9 @@
 
 
 ## Github Stats  
-![skipper-116's Streak](https://github-readme-streak-stats.herokuapp.com/?user=skipper-116&theme=radical&hide_border=false)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=skipper-116&theme=radical&hide_border=false)
+<br/>
+![Top Lang](https://api.githubtrends.io/user/svg/Skipper-116/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=true&theme=dark)
 
 <br/>  
 
