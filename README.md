@@ -4,10 +4,12 @@
   
 
 ### **<div align="center">I'm Roy Chanunkha, a full-time full-stack freelance developer </div>**  
-  
-
-- -🔭 I’m currently working on [EMR API](https://github.com/HISMalawi/BHT-EMR-API)
-
+<table>
+  <tr>
+    <td>
+    
+- 🔭 I’m currently working on Health Systems
+    
 - 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **Rust Projects**
@@ -17,8 +19,13 @@
 - 👨‍💻 All of my projects are available at [Github.com](Github.com)
 
 - 💬 Ask me about **c#, ruby, react, vue, javascript, python**  
+    </td>
+    <td>
+    <a href="https://app.daily.dev/skipper_116"><img src="https://api.daily.dev/devcards/e287d68b5bb441e48527c326d861ab69.png?r=88g" width="400" alt="Roy Chanunkha's Dev Card"/></a>
+    </td>
+  </tr>
+</table>
   
-
 <br/>  
 
 
