@@ -3,20 +3,18 @@
 </div>  
   
 
-### **<div align="center">I'm Roy Chanunkha, a full-time full-stack freelance developer </div>**  
+### **<div align="center">I'm Roy Chanunkha, a Software Engineer </div>**  
 <table>
   <tr>
     <td>
     
-- 🔭 I’m currently working on Health Systems
+- 🔭 I’m currently working on Health and Governance Systems
     
 - 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **Rust Projects**
 
 - 🤝 I’m looking for help with **Assembly Code**
-
-- 👨‍💻 All of my projects are available at [Github.com](Github.com)
 
 - 💬 Ask me about **c#, ruby, react, vue, javascript, python**  
     </td>
