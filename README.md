@@ -16,7 +16,7 @@ I craft clean, efficient, and scalable code to tackle complex challenges, driven
 
 ### **Some of My Skills**
 
-<div align="center">
+<div align="width:100%">
 
 <table style="width:100%; border-collapse: collapse;">
   <thead>
