@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 500px;" alt="Welcome GIF"/>
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 300px;" alt="Welcome GIF"/>
 </div>
 
 ## **Hi there, I'm Roy Chanunkha – Software Engineer**
@@ -9,8 +9,7 @@
 ---
 
 ### **About Me**
-I write clean, efficient, and scalable code to solve complex problems.
-
+I craft clean, efficient, and scalable code to tackle complex challenges, driven by a mission to leverage software for positive impact and a better future for our world.
 ---
 
 ### **Highlighted Contributions**
@@ -27,19 +26,38 @@ I write clean, efficient, and scalable code to solve complex problems.
 
 ### **My Skill Set**
 #### **Frontend Development**
-![React](https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg) ![Vue.js](https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg) ![TypeScript](https://profilinator.rishav.dev/skills-assets/typescript-original.svg) ![Tailwind CSS](https://profilinator.rishav.dev/skills-assets/tailwindcss.svg) ![Next.js](https://profilinator.rishav.dev/skills-assets/nextjs.png) ![Nuxt.js](https://profilinator.rishav.dev/skills-assets/nuxt.png)
+<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="50" alt="React"/>
+<img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" width="50" alt="Vue.js"/>
+<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="50" alt="TypeScript"/>
+<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" width="50" alt="Tailwind CSS"/>
+<img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" width="50" alt="Next.js"/>
+<img src="https://profilinator.rishav.dev/skills-assets/nuxt.png" width="50" alt="Nuxt.js"/>
 
 #### **Backend Development**
-![Ruby on Rails](https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg) ![Node.js](https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg) ![Python](https://profilinator.rishav.dev/skills-assets/python-original.svg) ![Rust](https://profilinator.rishav.dev/skills-assets/rust-plain.svg) ![FastAPI](https://profilinator.rishav.dev/skills-assets/fastapi-icon.svg) ![Laravel](https://profilinator.rishav.dev/skills-assets/laravel-plain.svg) ![.NET Core](https://profilinator.rishav.dev/skills-assets/dotnetcore.png)
+<img src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" width="50" alt="Ruby on Rails"/>
+<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="50" alt="Node.js"/>
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" width="50" alt="Python"/>
+<img src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" width="50" alt="Rust"/>
+<img src="https://profilinator.rishav.dev/skills-assets/fastapi-icon.svg" width="50" alt="FastAPI"/>
+<img src="https://profilinator.rishav.dev/skills-assets/laravel-plain.svg" width="50" alt="Laravel"/>
+<img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" width="50" alt=".NET Core"/>
 
 #### **Databases**
-![MySQL](https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg) ![MongoDB](https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg) ![PostgreSQL](https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg)
+<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" width="50" alt="MySQL"/>
+<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" width="50" alt="MongoDB"/>
+<img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" width="50" alt="PostgreSQL"/>
 
 #### **Technologies**
-![Docker](https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg) ![Git](https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg) ![Linux](https://profilinator.rishav.dev/skills-assets/linux-original.svg) ![Kubernetes](https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg)
+<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" width="50" alt="Docker"/>
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="50" alt="Git"/>
+<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" width="50" alt="Linux"/>
+<img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" width="50" alt="Kubernetes"/>
 
 #### **DevOps**
-![CI/CD](https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg) ![Bash](https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg) ![AWS](https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg) ![Python](https://profilinator.rishav.dev/skills-assets/python-original.svg)
+<img src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" width="50" alt="CI/CD"/>
+<img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" width="50" alt="Bash"/>
+<img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" width="50" alt="AWS"/>
+<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" width="50" alt="Python"/>
 
 ---
 
@@ -60,9 +78,9 @@ I write clean, efficient, and scalable code to solve complex problems.
 
 ### **GitHub Stats**
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=skipper-116&theme=radical&hide_border=false" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=skipper-116&theme=radical&hide_border=false" width="450" alt="GitHub Streak"/>
 <br/>
-<img src="https://api.githubtrends.io/user/svg/Skipper-116/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=true&theme=dark" alt="GitHub Top Languages"/>
+<img src="https://api.githubtrends.io/user/svg/Skipper-116/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=true&theme=dark" width="450" alt="GitHub Top Languages"/>
 </div>
 
 ---
@@ -70,4 +88,3 @@ I write clean, efficient, and scalable code to solve complex problems.
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=skipper-116&&style=flat-square" alt="Profile Views"/>
 </div>
-
