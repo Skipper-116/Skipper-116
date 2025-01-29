@@ -1,12 +1,5 @@
-# Welcome to My GitHub Profile
+#  **Hi there, I'm Roy Chanunkha – Software Engineer**
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%; height: 300px;" alt="Welcome GIF"/>
-</div>
-
-## **Hi there, I'm Roy Chanunkha – Software Engineer**
-
----
 
 ### **About Me**
 I craft clean, efficient, and scalable code to tackle complex challenges, driven by a mission to leverage software for positive impact and a better future for our world.
@@ -26,48 +19,70 @@ I craft clean, efficient, and scalable code to tackle complex challenges, driven
 ---
 
 ### **My Skill Set**
-#### **Frontend Development**
+
 <div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="50" alt="React"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" width="50" alt="Vue.js"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="50" alt="TypeScript"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" width="50" alt="Tailwind CSS"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" width="50" alt="Next.js"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/nuxt.png" width="50" alt="Nuxt.js"/>
+
+<table style="width:100%; border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th style="text-align: left; padding: 10px; border-bottom: 2px solid #ddd;">Frontend</th>
+      <th style="text-align: left; padding: 10px; border-bottom: 2px solid #ddd;">Backend</th>
+      <th style="text-align: left; padding: 10px; border-bottom: 2px solid #ddd;">Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">React</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Ruby on Rails</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Docker</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Vue.js</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Node.js</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Git</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">TypeScript</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Python</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Linux</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Tailwind CSS</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Rust</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Kubernetes</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Next.js</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">FastAPI</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">CI/CD Pipelines</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Nuxt.js</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Laravel</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">AWS</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;"> </td>
+      <td style="padding: 10px;">.NET Core</td>
+      <td style="padding: 10px;">Bash Scripting</td>
+    </tr>
+  </tbody>
+</table>
+
 </div>
 
-#### **Backend Development**
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" width="50" alt="Ruby on Rails"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="50" alt="Node.js"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" width="50" alt="Python"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" width="50" alt="Rust"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="50" alt="FastAPI"/> <!-- Correct FastAPI logo -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="50" alt="Laravel"/> <!-- Correct Laravel logo -->
-  <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" width="50" alt=".NET Core"/>
-</div>
+---
 
-#### **Databases**
+### **GitHub Stats**
 <div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" width="50" alt="MySQL"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" width="50" alt="MongoDB"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" width="50" alt="PostgreSQL"/>
-</div>
 
-#### **Technologies**
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" width="50" alt="Docker"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="50" alt="Git"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" width="50" alt="Linux"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" width="50" alt="Kubernetes"/>
-</div>
+<table>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=skipper-116&theme=radical&hide_border=false" width="400" alt="GitHub Streak"/></td>
+    <td><img src="https://api.githubtrends.io/user/svg/Skipper-116/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=true&theme=dark" width="400" alt="GitHub Top Languages"/></td>
+  </tr>
+</table>
 
-#### **DevOps**
-<div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" width="50" alt="CI/CD"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" width="50" alt="Bash"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" width="50" alt="AWS"/>
-  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" width="50" alt="Python"/>
 </div>
 
 ---
@@ -87,15 +102,6 @@ I craft clean, efficient, and scalable code to tackle complex challenges, driven
 
 ---
 
-### **GitHub Stats**
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=skipper-116&theme=radical&hide_border=false" width="450" alt="GitHub Streak"/>
-<br/>
-<img src="https://api.githubtrends.io/user/svg/Skipper-116/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=true&theme=dark" width="450" alt="GitHub Top Languages"/>
-</div>
-
----
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=skipper-116&&style=flat-square" alt="Profile Views"/>
-</div>
+</div
