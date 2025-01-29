@@ -10,6 +10,7 @@
 
 ### **About Me**
 I craft clean, efficient, and scalable code to tackle complex challenges, driven by a mission to leverage software for positive impact and a better future for our world.
+
 ---
 
 ### **Highlighted Contributions**
@@ -26,38 +27,48 @@ I craft clean, efficient, and scalable code to tackle complex challenges, driven
 
 ### **My Skill Set**
 #### **Frontend Development**
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="50" alt="React"/>
-<img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" width="50" alt="Vue.js"/>
-<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="50" alt="TypeScript"/>
-<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" width="50" alt="Tailwind CSS"/>
-<img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" width="50" alt="Next.js"/>
-<img src="https://profilinator.rishav.dev/skills-assets/nuxt.png" width="50" alt="Nuxt.js"/>
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" width="50" alt="React"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" width="50" alt="Vue.js"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" width="50" alt="TypeScript"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" width="50" alt="Tailwind CSS"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" width="50" alt="Next.js"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/nuxt.png" width="50" alt="Nuxt.js"/>
+</div>
 
 #### **Backend Development**
-<img src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" width="50" alt="Ruby on Rails"/>
-<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="50" alt="Node.js"/>
-<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" width="50" alt="Python"/>
-<img src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" width="50" alt="Rust"/>
-<img src="https://profilinator.rishav.dev/skills-assets/fastapi-icon.svg" width="50" alt="FastAPI"/>
-<img src="https://profilinator.rishav.dev/skills-assets/laravel-plain.svg" width="50" alt="Laravel"/>
-<img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" width="50" alt=".NET Core"/>
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" width="50" alt="Ruby on Rails"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="50" alt="Node.js"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" width="50" alt="Python"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" width="50" alt="Rust"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="50" alt="FastAPI"/> <!-- Correct FastAPI logo -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="50" alt="Laravel"/> <!-- Correct Laravel logo -->
+  <img src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" width="50" alt=".NET Core"/>
+</div>
 
 #### **Databases**
-<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" width="50" alt="MySQL"/>
-<img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" width="50" alt="MongoDB"/>
-<img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" width="50" alt="PostgreSQL"/>
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" width="50" alt="MySQL"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" width="50" alt="MongoDB"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" width="50" alt="PostgreSQL"/>
+</div>
 
 #### **Technologies**
-<img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" width="50" alt="Docker"/>
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="50" alt="Git"/>
-<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" width="50" alt="Linux"/>
-<img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" width="50" alt="Kubernetes"/>
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" width="50" alt="Docker"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="50" alt="Git"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" width="50" alt="Linux"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" width="50" alt="Kubernetes"/>
+</div>
 
 #### **DevOps**
-<img src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" width="50" alt="CI/CD"/>
-<img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" width="50" alt="Bash"/>
-<img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" width="50" alt="AWS"/>
-<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" width="50" alt="Python"/>
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" width="50" alt="CI/CD"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" width="50" alt="Bash"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" width="50" alt="AWS"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" width="50" alt="Python"/>
+</div>
 
 ---
 
