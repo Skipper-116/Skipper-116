@@ -1,96 +1,39 @@
-##  **Hi there, I'm Roy Chanunkha – Software Engineer**
-I craft clean, efficient, and scalable code to tackle complex challenges, driven by a mission to leverage software for positive impact and a better future for our world.
+# Hi there, I'm Roy Chanunkha AKA Skipper 👋
+
+![GitHub followers](https://img.shields.io/github/followers/Skipper-116?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Skipper-116?style=social)
+
+## About Me
+I'm a passionate software engineer with a keen interest in open-source projects and collaborative coding. I love learning new technologies and applying them to solve real-world problems.
+
+- 💼 Currently working as a Senior Software Engineer
+- 🎓 Graduated from University of Malawi
+- 🌱 Currently learning Rust and Go
+- 💬 Ask me about Health, Governance and Finance Tech
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rchanunkha)
+
+## My Projects
+Here are a few personal projects I've been working on:
+
+- **[eMDeck Project](https://github.com/Skipper-116/eMDeck)**: eMDeck is a highly configurable deployment and management tool for healthcare systems, designed to simplify the deployment of services like EMR-API, DDE, and Frontend applications using Docker and Docker Compose.
+- **[DevHub](https://github.com/Skipper-116/devhub-backend)**: The backend for DevHub, a collaborative developer platform where users can showcase projects, participate in coding challenges, and collaborate with other developers.
+- **[OpenRoad](https://github.com/KuyeselaOrganization/OpenRoad)**: OpenRoad is an open-source road traffic management system focusing on transparency, security, scalability, and interoperability to revolutionize traffic systems worldwide.
+
+## Skills
+- **Languages**: Ruby, Python, JavaScript, C#, Rust, PHP
+- **Frameworks**: React, Vue.js, Node.js, FastApi, Ruby on Rails, .Net Core, ASP.NET MVC, Laravel
+- **Tools and Technologies**: Git, Docker, Kubernetes, AWS, Azure
+
+## GitHub Stats
+![Skipper-116's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skipper-116&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Skipper-116&layout=compact&theme=radical)
+
+## Contact Me
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/rchanunkha)
+- **Twitter**: [Twitter Handle](https://x.com/skipper_116)
+
+## Let's Connect!
+Feel free to reach out if you want to collaborate on a project, have any questions, or just want to say hi!
 
 ---
-
-### **Highlighted Communities & Contributions**
-- **[@HISMalawi](https://github.com/HISMalawi)**
-- **[@EGPAFMalawiHIS](https://github.com/EGPAFMalawiHIS)**
-- **[@Collabwork-Inc](https://github.com/Collabwork-Inc)**
-- **[@egpaf-global](https://github.com/egpaf-global)**
-- **[@Malawi-Ministry-of-Health](https://github.com/Malawi-Ministry-of-Health)**
-- **[@KuyeselaOrganization](https://github.com/KuyeselaOrganization)**
-- **[@MISAU-DIS](https://github.com/MISAU-DIS)**
-
----
-
-### **Some of My Skills**
-
-<div align="width:100%">
-
-<table style="width:100%; border-collapse: collapse;">
-  <thead>
-    <tr>
-      <th style="text-align: left; padding: 12px; border-bottom: 2px solid #ddd; font-size: 16px;">Frontend</th>
-      <th style="text-align: left; padding: 12px; border-bottom: 2px solid #ddd; font-size: 16px;">Backend</th>
-      <th style="text-align: left; padding: 12px; border-bottom: 2px solid #ddd; font-size: 16px;">DevOps & Cloud</th>
-      <th style="text-align: left; padding: 12px; border-bottom: 2px solid #ddd; font-size: 16px;">Databases & Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">React</td>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Ruby on Rails</td>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Docker</td>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">MySQL</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Vue.js</td>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Node.js</td>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">GitHub Actions</td>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">PostgreSQL</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">TypeScript</td>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Python</td>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">AWS</td>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">MongoDB</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Tailwind CSS</td>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Rust</td>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Kubernetes</td>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Redis</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Next.js</td>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">FastAPI</td>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">CI/CD Pipelines</td>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Elasticsearch</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Nuxt.js</td>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Laravel</td>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">Bash Scripting</td>
-      <td style="padding: 12px; border-bottom: 1px solid #ddd;">GraphQL</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px;"></td>
-      <td style="padding: 12px;">.NET Core</td>
-      <td style="padding: 12px;">Linux</td>
-      <td style="padding: 12px;">RabbitMQ</td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
-
----
-
-### **GitHub Stats**
-<div align="center">
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=skipper-116&theme=radical&hide_border=false" width="400" alt="GitHub Streak"/></td>
-    <td><img src="https://api.githubtrends.io/user/svg/Skipper-116/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=true&theme=dark" width="400" alt="GitHub Top Languages"/></td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=skipper-116&&style=flat-square" alt="Profile Views"/>
-</div>
