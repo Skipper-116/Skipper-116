@@ -8,14 +8,14 @@ I'm a passionate software engineer with a keen interest in open-source projects 
 - 💼 Currently working as a Senior Software Engineer
 - 🎓 Graduated from University of Malawi
 - 🌱 Currently learning Rust and Go
-- 💬 Ask me about Health, Governance and Finance Tech
+- 💬 Ask me about Tech in Health, Governance and Finance.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rchanunkha)
 
 ## My Projects
 Here are a few personal projects I've been working on:
 
 - **[eMDeck Project](https://github.com/Skipper-116/eMDeck)**: eMDeck is a highly configurable deployment and management tool for healthcare systems, designed to simplify the deployment of services like EMR-API, DDE, and Frontend applications using Docker and Docker Compose.
-- **[DevHub](https://github.com/Skipper-116/devhub-backend)**: The backend for DevHub, a collaborative developer platform where users can showcase projects, participate in coding challenges, and collaborate with other developers.
+- **[DevHub](https://github.com/Skipper-116/devhub-backend)**: A collaborative developer platform where users can showcase projects, participate in coding challenges, and collaborate with other developers.
 - **[OpenRoad](https://github.com/KuyeselaOrganization/OpenRoad)**: OpenRoad is an open-source road traffic management system focusing on transparency, security, scalability, and interoperability to revolutionize traffic systems worldwide.
 
 ## Skills
@@ -31,7 +31,7 @@ Here are a few personal projects I've been working on:
 
 ## Contact Me
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/rchanunkha)
-- **Twitter**: [Twitter Handle](https://x.com/skipper_116)
+- **X**: [X Handle](https://x.com/skipper_116)
 
 ## Let's Connect!
 Feel free to reach out if you want to collaborate on a project, have any questions, or just want to say hi!
