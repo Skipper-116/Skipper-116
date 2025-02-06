@@ -14,7 +14,7 @@ I'm a passionate software engineer with a keen interest in open-source projects 
 ## My Projects
 Here are a few personal projects I've been working on:
 
-- **[eMDeck Project](https://github.com/Skipper-116/eMDeck)**: eMDeck is a highly configurable deployment and management tool for healthcare systems, designed to simplify the deployment of services like EMR-API, DDE, and Frontend applications using Docker and Docker Compose.
+- **[eMDeck](https://github.com/Skipper-116/eMDeck)**: eMDeck is a highly configurable deployment and management tool for healthcare systems, designed to simplify the deployment of services like EMR-API, DDE, and Frontend applications using Docker and Docker Compose.
 - **[DevHub](https://github.com/Skipper-116/devhub-backend)**: A collaborative developer platform where users can showcase projects, participate in coding challenges, and collaborate with other developers.
 - **[OpenRoad](https://github.com/KuyeselaOrganization/OpenRoad)**: OpenRoad is an open-source road traffic management system focusing on transparency, security, scalability, and interoperability to revolutionize traffic systems worldwide.
 
