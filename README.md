@@ -8,7 +8,7 @@ I'm a passionate software engineer with a keen interest in open-source projects 
 - 💼 Currently working as a Senior Software Engineer
 - 🎓 Graduated from University of Malawi
 - 🌱 Currently learning Rust and Go
-- 💬 Ask me about Tech in Health, Governance and Finance.
+- 💬 Ask me anything about Tech in Health, Governance and Finance.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rchanunkha)
 
 ## My Projects
