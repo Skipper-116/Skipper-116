@@ -11,6 +11,3 @@
            \_________/     Status   : shipping
             ~ ~ ~ ~ ~
 ```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/rchanunkha)
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/skipper_116)
