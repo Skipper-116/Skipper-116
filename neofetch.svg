@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 300" width="880" height="300" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">
+  <rect width="100%" height="100%" rx="8" fill="#0d1117"/>
+  <g fill="#4ade80" xml:space="preserve">
+    <text x="24" y="36">              |\           roy@skipper-116</text>
+    <text x="24" y="60">              | \          ---------------</text>
+    <text x="24" y="84">              |  \         OS       : GitHub Profile</text>
+    <text x="24" y="108">              |___\        Host     : Skipper-116</text>
+    <text x="24" y="132">             /|    \       Role     : Senior Software Engineer</text>
+    <text x="24" y="156">            / |     \      Domains  : health · governance · finance</text>
+    <text x="24" y="180">           /  |      \     Languages: ruby, python, javascript, c#, php</text>
+    <text x="24" y="204">          /___|_______\    Stack    : rails, fastapi, node, react, vue, .net, laravel</text>
+    <text x="24" y="228">          \           /    Tools    : docker, kubernetes, aws, azure</text>
+    <text x="24" y="252">           \_________/     Status   : shipping</text>
+    <text x="24" y="276">            ~ ~ ~ ~ ~</text>
+  </g>
+</svg>
